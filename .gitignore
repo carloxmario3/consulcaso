@@ -1,6 +1,3 @@
-# Backup SQL file with credentials (too large and sensitive)
-backup_consulbase73.sql
-
 # Windows/VS artifacts
 *.user
 *.suo
